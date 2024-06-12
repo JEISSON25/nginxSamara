@@ -1,0 +1,2 @@
+ssl_certificate /code/nginx/ssl/local.crt;
+    ssl_certificate_key /code/nginx/ssl/local.key;
